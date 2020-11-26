@@ -1,0 +1,19 @@
+{
+  "name": "maranatha",
+  "version": "1.0.0",
+  "description": "Iglesia Maranatha En Gloria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesidmsanz/maranatha.git"
+  },
+  "author": "Jesid Moscote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesidmsanz/maranatha/issues"
+  },
+  "homepage": "https://github.com/jesidmsanz/maranatha#readme"
+}
